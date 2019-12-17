@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>marquee tag 
+</title>
+</head>
+<body 
+bgcolor="blue" text="yellow">
+<br><br>
+umesh on fire
+<br><br>
+<marquee loop="4" direction="right">
+umesh on fire
+<br><br>
+</marquee>
+<marquee loop="4" direction="left">
+umesh on fire
+</marquee>
+</body>
+</html>
+
+
+
+
+<!-- its comments plz try to execute this program too
+
+<html>
+<head>
+<title>
+marquee work
+</title>
+</head>
+<body bgcolor="blue" text="yellow">
+<br>
+<marquee loop="4" direction="right">
+umesh on fire
+
+</body>
+</html>
